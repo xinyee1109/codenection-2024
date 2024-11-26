@@ -51,7 +51,7 @@ void solve(){
     for(auto& i : a) cin >> i;
 
     long long total = 1;
-    pair<int,int> prev{-1, 1e5};
+    pair<int,int> prev{-1, 1e5+1};
     for(int i{}; i < n; i++){
         if (a[i] != -1){
             pair<int,int> cur{i, a[i]};
@@ -60,7 +60,7 @@ void solve(){
         }
     }
 
-    total = (total * compute_interval(prev, {n, 1e5})) % MOD;
+    total = (total * compute_interval(prev, {n, 1e5+1})) % MOD;
 
     cout << total;
 }
