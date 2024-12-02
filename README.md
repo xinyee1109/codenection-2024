@@ -7,3 +7,7 @@ You can find the problems on HackerRank:
 - **Preliminary Round**
   - [Open Category](https://www.hackerrank.com/codenection-2024-preliminary-round-open-category)
   - [Closed Category](https://www.hackerrank.com/codenection-2024-preliminary-round-closed-category)
+
+ - **Final Round**
+  - [Open Category](https://www.hackerrank.com/codenection-2024-final-round-open-category)
+  - [Closed Category](https://www.hackerrank.com/codenection-2024-final-round-closed-category)
